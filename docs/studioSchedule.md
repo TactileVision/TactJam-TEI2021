@@ -1,21 +1,9 @@
 # STUDIO SCHEDULE
 The studio is a one-day online event and will last about six hours
-divided into three sessions – *think, pair*, and *share* (see [studio proposal](https://doi.org/10.1145/3430524.3442699)). To
-accommodate multiple time-zones we offer two exemplary schedules
- – one optimized for Europe and Asia (see first row in Table 1)
-and the other optimized for Europe and Americas (see second row
-in Table 1). Only one of the two schedules will be eventually used.
-The start can be adjusted later on, depending on the demand of
-participants and where they are located on Earth. Therefore, the
-organizers will start a poll at the latest one week before the event.
-The detailed schedule is shown in Table 2.
+divided into three sessions – *think, pair*, and *share* (see [studio proposal](https://doi.org/10.1145/3430524.3442699)).
 
-Since a pure online event can be very exhausting for the participants,
-the organizers have tried to keep the schedule flexible.
-In addition to some breaks, there will also be sections in which
-the participants do not necessarily have to be online (e.g. while
-composing tactons). The organizers will however be available all
-the time for questions.
+When creating the schedule, we tried to take into account the different time zones as best as possible, see Table 1.
+The detailed schedule is shown in Table 2.
 
 
 **Table1:** *Studio start and end times.*
@@ -23,6 +11,14 @@ the time for questions.
 | San Francisco<br/> PST (UTC-8) | New York<br/> EST (UTC-5)     | Berlin<br/> CET (UTC+1)        | Tokyo<br/> JST (UTC+9)         | Melbourne<br/> AEDT (UTC+11)   |
 |--------------------------------|-------------------------------|--------------------------------|--------------------------------|--------------------------------|
 | Saturday, Feb 20<br/> 6:00 – 12:00  | Saturday, Feb 20<br/> 9:00 – 15:00 | Saturday, Feb 20<br/> 15:00 – 21:00 | Saturday, Feb 20<br/> 23:00 – 5:00  | Sunday, Feb 21<br/> 1:00 – 7:00   |
+
+
+Since a pure online event can be very exhausting for the participants,
+the organizers have tried to keep the schedule flexible.
+In addition to some breaks, there will also be sections in which
+the participants do not necessarily have to be online (e.g. while
+composing tactons). The organizers will however be available all
+the time for questions.
 
 
 **Table 2:** *Detailed studio schedule.*
