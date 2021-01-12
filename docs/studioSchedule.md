@@ -22,7 +22,7 @@ the time for questions.
 
 | San Francisco<br/> PST (UTC-8) | New York<br/> EST (UTC-5)     | Berlin<br/> CET (UTC+1)        | Tokyo<br/> JST (UTC+9)         | Melbourne<br/> AEDT (UTC+11)   |
 |--------------------------------|-------------------------------|--------------------------------|--------------------------------|--------------------------------|
-| Fri, Feb 20<br/> 6:00 – 12:00  | Fri, Feb 20<br/> 9:00 – 15:00 | Fri, Feb 20<br/> 15:00 – 21:00 | Fri, Feb 20<br/> 23:00 – 5:00  | Sat, Feb 21<br/> 1:00 – 7:00   |
+| Saturday, Feb 20<br/> 6:00 – 12:00  | Saturday, Feb 20<br/> 9:00 – 15:00 | Saturday, Feb 20<br/> 15:00 – 21:00 | Saturday, Feb 20<br/> 23:00 – 5:00  | Sunday, Feb 21<br/> 1:00 – 7:00   |
 
 
 **Table 2:** *Detailed studio schedule.*
