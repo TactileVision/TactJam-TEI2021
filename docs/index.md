@@ -11,7 +11,7 @@ Tactons are vibrotactile patterns used to convey information. Conventionally, a 
 - __Registration deadline__: we require early registrations to ship the physical devices in time
   - _non-EU participants_ January 15th, 2021
   - _EU participants_, January 31st, 2021
-- __Workshop date__: February 19th, 2021
+- __Workshop date__: February 20th, 2021
 
 You can find a detailed __schedule__ of the studio [here](studioSchedule).
 
