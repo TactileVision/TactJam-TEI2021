@@ -17,4 +17,4 @@ TactJam is a collaborative playground for composing spatial tactons. The project
 
 TactJam-TEI2021 is (C) 2020 Tactile Vision
 
-It is licensed under the Creative [Commons Attribution license (CC BY4.0)](https://creativecommons.org/licenses/by/4.0/legalcode). For details, please refer to the [LICENSE](LICENSE) file.
+It is licensed under the [Creative Commons Attribution license (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode). For details, please refer to the [LICENSE](LICENSE) file.
